@@ -1,0 +1,568 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Testador IPTV",Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Miramar (TV Cultura)
+https://tinyurl.com/FORMIGAtv12122022/323.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (01)
+https://tinyurl.com/FORMIGAtv12122022/77.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (02)
+https://tinyurl.com/FORMIGAtv12122022/78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (03)
+https://tinyurl.com/FORMIGAtv12122022/79.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (04)
+https://tinyurl.com/FORMIGAtv12122022/80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (05)
+https://tinyurl.com/FORMIGAtv12122022/81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) A&E
+https://tinyurl.com/FORMIGAtv12122022/128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) AMC
+https://tinyurl.com/FORMIGAtv12122022/129.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) AXN
+https://tinyurl.com/FORMIGAtv12122022/130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (02)
+https://tinyurl.com/FORMIGAtv12122022/78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (03)
+https://tinyurl.com/FORMIGAtv12122022/79.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Cine Brasil TV (TV Cultura)
+https://tinyurl.com/FORMIGAtv12122022/387.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) CineCanal
+https://tinyurl.com/FORMIGAtv12122022/169.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Cinemax
+https://tinyurl.com/FORMIGAtv12122022/132.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) FX
+https://tinyurl.com/FORMIGAtv12122022/134.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Like
+https://tinyurl.com/FORMIGAtv12122022/176.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) MegaPix
+https://tinyurl.com/FORMIGAtv12122022/144.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Paramount
+https://tinyurl.com/FORMIGAtv12122022/145.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Space
+https://tinyurl.com/FORMIGAtv12122022/146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Star Channel
+https://tinyurl.com/FORMIGAtv12122022/228.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Studio Universal
+https://tinyurl.com/FORMIGAtv12122022/147.m3u8
+#EXTINF:0 tvg-id="Syfy.br" group-title="Canais | Servidor 01",(OFFLINE) SyFy
+https://tinyurl.com/FORMIGAtv12122022/148.m3u8
+#EXTINF:0 tvg-id="Tbs.br" group-title="Canais | Servidor 01",(OFFLINE) TBS
+https://tinyurl.com/FORMIGAtv12122022/149.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TCM
+https://tinyurl.com/FORMIGAtv12122022/177.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TNT
+https://tinyurl.com/FORMIGAtv12122022/157.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Universal TV
+https://tinyurl.com/FORMIGAtv12122022/159.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Warner Channel
+https://tinyurl.com/FORMIGAtv12122022/160.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (01)
+https://tinyurl.com/FORMIGAtv12122022/20.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (02)
+https://tinyurl.com/FORMIGAtv12122022/21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (03)
+https://tinyurl.com/FORMIGAtv12122022/22.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (04)
+https://tinyurl.com/FORMIGAtv12122022/23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (05)
+https://tinyurl.com/FORMIGAtv12122022/24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (06)
+https://tinyurl.com/FORMIGAtv12122022/25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (07)
+https://tinyurl.com/FORMIGAtv12122022/26.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Sky Cinema (08)
+https://tinyurl.com/FORMIGAtv12122022/27.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Sky Cinema (09)
+https://tinyurl.com/FORMIGAtv12122022/28.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Sky Cinema (10)
+https://tinyurl.com/FORMIGAtv12122022/29.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 News
+https://tinyurl.com/FORMIGAtv12122022/265.m3u8
+#EXTINF:0 tvg-id="CNNEspanhol.br" group-title="Canais | Servidor 01",(OFFLINE) CNN Espanhol
+https://tinyurl.com/FORMIGAtv12122022/232.m3u8
+#EXTINF:0 tvg-id="Cnninternacional.br" group-title="Canais | Servidor 01",(OFFLINE) CNN Internacional
+https://tinyurl.com/FORMIGAtv12122022/163.m3u8
+#EXTINF:0 tvg-id="FoxNews.br" group-title="Canais | Servidor 01",(OFFLINE) Fox News
+https://tinyurl.com/FORMIGAtv12122022/164.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 News
+https://tinyurl.com/FORMIGAtv12122022/229.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Record News
+https://tinyurl.com/FORMIGAtv12122022/258.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Jovem Pan News
+https://tinyurl.com/FORMIGAtv12122022/233.m3u8
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Canais | Servidor 01",(OFFLINE) Baby TV
+https://tinyurl.com/FORMIGAtv12122022/83.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Boomerang
+https://tinyurl.com/FORMIGAtv12122022/84.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Cartoon Network
+https://tinyurl.com/FORMIGAtv12122022/85.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Kids
+https://tinyurl.com/FORMIGAtv12122022/86.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Disney Channel
+https://tinyurl.com/FORMIGAtv12122022/87.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Gloob
+https://tinyurl.com/FORMIGAtv12122022/88.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Gloobinho
+https://tinyurl.com/FORMIGAtv12122022/89.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Nick Jr
+https://tinyurl.com/FORMIGAtv12122022/91.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Nickelodeon
+https://tinyurl.com/FORMIGAtv12122022/90.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Tooncast
+https://tinyurl.com/FORMIGAtv12122022/92.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Ra Tim Bum
+https://tinyurl.com/FORMIGAtv12122022/93.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) ZooMoo Kids
+https://tinyurl.com/FORMIGAtv12122022/94.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Action
+https://tinyurl.com/FORMIGAtv12122022/150.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Cult
+https://tinyurl.com/FORMIGAtv12122022/151.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Fun
+https://tinyurl.com/FORMIGAtv12122022/152.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Pipoca
+https://tinyurl.com/FORMIGAtv12122022/153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Premium
+https://tinyurl.com/FORMIGAtv12122022/154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Touch
+https://tinyurl.com/FORMIGAtv12122022/155.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01
+https://tinyurl.com/FORMIGAtv12122022/135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (02)
+https://tinyurl.com/FORMIGAtv12122022/136.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Family
+https://tinyurl.com/FORMIGAtv12122022/137.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Mundi
+https://tinyurl.com/FORMIGAtv12122022/138.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Plus
+https://tinyurl.com/FORMIGAtv12122022/139.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Pop
+https://tinyurl.com/FORMIGAtv12122022/140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Signature
+https://tinyurl.com/FORMIGAtv12122022/141.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Xtreme
+https://tinyurl.com/FORMIGAtv12122022/142.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Servidor 01
+https://tinyurl.com/FORMIGAtv12122022/31.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Combate
+https://tinyurl.com/FORMIGAtv12122022/32.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) ESPN
+https://tinyurl.com/FORMIGAtv12122022/35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) ESPN (02)
+https://tinyurl.com/FORMIGAtv12122022/33.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) ESPN (03)
+https://tinyurl.com/FORMIGAtv12122022/34.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) ESPN (04)
+https://tinyurl.com/FORMIGAtv12122022/37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) ESPN Extra
+https://tinyurl.com/FORMIGAtv12122022/36.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Fox Servidor 01 (02)
+https://tinyurl.com/FORMIGAtv12122022/38.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) SportTV
+https://tinyurl.com/FORMIGAtv12122022/46.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) SportTV (02)
+https://tinyurl.com/FORMIGAtv12122022/47.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) SportTV (03)
+https://tinyurl.com/FORMIGAtv12122022/48.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Clubes
+https://tinyurl.com/FORMIGAtv12122022/39.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (02)
+https://tinyurl.com/FORMIGAtv12122022/40.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (03)
+https://tinyurl.com/FORMIGAtv12122022/41.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (04)
+https://tinyurl.com/FORMIGAtv12122022/42.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (05)
+https://tinyurl.com/FORMIGAtv12122022/43.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (06)
+https://tinyurl.com/FORMIGAtv12122022/44.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (07)
+https://tinyurl.com/FORMIGAtv12122022/45.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TNT Servidor 01 (01)
+https://tinyurl.com/FORMIGAtv12122022/57.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TNT Servidor 01 (02)
+https://tinyurl.com/FORMIGAtv12122022/58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TNT Servidor 01 (03)
+https://tinyurl.com/FORMIGAtv12122022/59.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TNT Servidor 01 (04)
+https://tinyurl.com/FORMIGAtv12122022/60.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TNT Servidor 01 (05)
+https://tinyurl.com/FORMIGAtv12122022/171.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Conmebol (01)
+https://tinyurl.com/FORMIGAtv12122022/49.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Conmebol (02)
+https://tinyurl.com/FORMIGAtv12122022/50.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Conmebol (03)
+https://tinyurl.com/FORMIGAtv12122022/51.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Conmebol (04)
+https://tinyurl.com/FORMIGAtv12122022/52.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+
+https://tinyurl.com/FORMIGAtv12122022/178.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+ (02)
+https://tinyurl.com/FORMIGAtv12122022/179.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+ (03)
+https://tinyurl.com/FORMIGAtv12122022/237.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+ (04)
+https://tinyurl.com/FORMIGAtv12122022/236.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+ (05)
+https://tinyurl.com/FORMIGAtv12122022/180.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+ (06)
+https://tinyurl.com/FORMIGAtv12122022/181.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Star+ (07)
+https://tinyurl.com/FORMIGAtv12122022/182.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (01)
+https://tinyurl.com/FORMIGAtv12122022/259.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (02)
+https://tinyurl.com/FORMIGAtv12122022/260.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (03)
+https://tinyurl.com/FORMIGAtv12122022/175.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (04)
+https://tinyurl.com/FORMIGAtv12122022/174.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (05)
+https://tinyurl.com/FORMIGAtv12122022/173.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (06)
+https://tinyurl.com/FORMIGAtv12122022/172.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) DAZN (07)
+https://tinyurl.com/FORMIGAtv12122022/249.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 Max (01)
+https://tinyurl.com/FORMIGAtv12122022/251.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 Max (02)
+https://tinyurl.com/FORMIGAtv12122022/252.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 Max (03)
+https://tinyurl.com/FORMIGAtv12122022/253.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Amazon Prime Video (01)
+https://tinyurl.com/FORMIGAtv12122022/230.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Amazon Prime Video (02)
+https://tinyurl.com/FORMIGAtv12122022/231.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Copa do Nordeste (01)
+https://tinyurl.com/FORMIGAtv12122022/53.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Copa do Nordeste (02)
+https://tinyurl.com/FORMIGAtv12122022/54.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Copa do Nordeste (03)
+https://tinyurl.com/FORMIGAtv12122022/55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Copa do Nordeste (04)
+https://tinyurl.com/FORMIGAtv12122022/56.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) EuroSport (01)
+https://tinyurl.com/FORMIGAtv12122022/223.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) EuroSport (02)
+https://tinyurl.com/FORMIGAtv12122022/224.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Channel
+https://tinyurl.com/FORMIGAtv12122022/101.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 H & Health
+https://tinyurl.com/FORMIGAtv12122022/102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 ID
+https://tinyurl.com/FORMIGAtv12122022/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Science
+https://tinyurl.com/FORMIGAtv12122022/104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 Theater
+https://tinyurl.com/FORMIGAtv12122022/105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 Turbo
+https://tinyurl.com/FORMIGAtv12122022/106.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 World
+https://tinyurl.com/FORMIGAtv12122022/107.m3u8
+#EXTINF:0 tvg-id="HGTV.us" group-title="Canais | Servidor 01",(OFFLINE) HGTV
+https://tinyurl.com/FORMIGAtv12122022/112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Animal Planet
+https://tinyurl.com/FORMIGAtv12122022/96.m3u8
+#EXTINF:0 tvg-id="Arte1.br" group-title="Canais | Servidor 01",(OFFLINE) Arte 1
+https://tinyurl.com/FORMIGAtv12122022/97.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Curta!
+https://tinyurl.com/FORMIGAtv12122022/99.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) H2
+https://tinyurl.com/FORMIGAtv12122022/114.m3u8
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Canais | Servidor 01",(OFFLINE) History Channel
+https://tinyurl.com/FORMIGAtv12122022/113.m3u8
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="Canais | Servidor 01",(OFFLINE) Love Nature
+https://tinyurl.com/FORMIGAtv12122022/115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) National Geographic
+https://tinyurl.com/FORMIGAtv12122022/119.m3u8
+#EXTINF:0 tvg-id="Bis.br" group-title="Canais | Servidor 01",(OFFLINE) Bis
+https://tinyurl.com/FORMIGAtv12122022/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Chef TV
+https://tinyurl.com/FORMIGAtv12122022/161.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Comedy Central
+https://tinyurl.com/FORMIGAtv12122022/100.m3u8
+#EXTINF:0 tvg-id="DogTV354.us" group-title="Canais | Servidor 01",(OFFLINE) Dog TV
+https://tinyurl.com/FORMIGAtv12122022/168.m3u8
+#EXTINF:0 tvg-id="E.br" group-title="Canais | Servidor 01",(OFFLINE) E!
+https://tinyurl.com/FORMIGAtv12122022/108.m3u8
+#EXTINF:0 tvg-id="FashionTV.nws" group-title="Canais | Servidor 01",(OFFLINE) Fashion TV
+https://tinyurl.com/FORMIGAtv12122022/166.m3u8
+#EXTINF:0 tvg-id="FilmArts.br" group-title="Canais | Servidor 01",(OFFLINE) Film Arts
+https://tinyurl.com/FORMIGAtv12122022/109.m3u8
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Canais | Servidor 01",(OFFLINE) FishTV
+https://tinyurl.com/FORMIGAtv12122022/226.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Food Network
+https://tinyurl.com/FORMIGAtv12122022/110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) GNT
+https://tinyurl.com/FORMIGAtv12122022/111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) LifeTime
+https://tinyurl.com/FORMIGAtv12122022/143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Mais Servidor 01sat
+https://tinyurl.com/FORMIGAtv12122022/262.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) MTV
+https://tinyurl.com/FORMIGAtv12122022/116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) MTV Live
+https://tinyurl.com/FORMIGAtv12122022/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Multishow
+https://tinyurl.com/FORMIGAtv12122022/118.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Music Box
+https://tinyurl.com/FORMIGAtv12122022/227.m3u8
+#EXTINF:0 tvg-id="Off.br" group-title="Canais | Servidor 01",(OFFLINE) OFF
+https://tinyurl.com/FORMIGAtv12122022/121.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Prime Box Brazil
+https://tinyurl.com/FORMIGAtv12122022/454.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Smithsonian
+https://tinyurl.com/FORMIGAtv12122022/122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TLC
+https://tinyurl.com/FORMIGAtv12122022/156.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TravelBox Brazil
+https://tinyurl.com/FORMIGAtv12122022/167.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Tru TV
+https://tinyurl.com/FORMIGAtv12122022/162.m3u8
+#EXTINF:0 tvg-id="VH1MegaHits.br" group-title="Canais | Servidor 01",(OFFLINE) VH1 Mega Hits
+https://tinyurl.com/FORMIGAtv12122022/123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Viva
+https://tinyurl.com/FORMIGAtv12122022/124.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Woohoo
+https://tinyurl.com/FORMIGAtv12122022/170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Boa Vontade TV (Boa Vontade TV)
+https://tinyurl.com/FORMIGAtv12122022/382.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Rede Família
+https://tinyurl.com/FORMIGAtv12122022/392.m3u8
+#EXTINF:0 tvg-id="RedeGenesis.br" group-title="Canais | Servidor 01",(OFFLINE) Rede Genesis
+https://tinyurl.com/FORMIGAtv12122022/393.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Rede Gospel
+https://tinyurl.com/FORMIGAtv12122022/394.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Rede Século 21
+https://tinyurl.com/FORMIGAtv12122022/396.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Rede Vida (Rede Vida)
+https://tinyurl.com/FORMIGAtv12122022/369.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Aparecida (Rede)
+https://tinyurl.com/FORMIGAtv12122022/377.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Cachoeira (TV Novo Tempo)
+https://tinyurl.com/FORMIGAtv12122022/324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Verdade (TV Verdade)
+https://tinyurl.com/FORMIGAtv12122022/378.m3u8
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Canais | Servidor 01",(OFFLINE) Canal do Boi
+https://tinyurl.com/FORMIGAtv12122022/384.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Canal Educação (TV Pública)
+https://tinyurl.com/FORMIGAtv12122022/418.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Canal Saúde
+https://tinyurl.com/FORMIGAtv12122022/404.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Canal UM
+https://tinyurl.com/FORMIGAtv12122022/413.m3u8
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Canais | Servidor 01",(OFFLINE) Euronews
+https://tinyurl.com/FORMIGAtv12122022/388.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Ideal TV (TV Mundial)
+https://tinyurl.com/FORMIGAtv12122022/314.m3u8
+#EXTINF:0 tvg-id="Polishop.br" group-title="Canais | Servidor 01",(OFFLINE) Polishop TV
+https://tinyurl.com/FORMIGAtv12122022/306.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Rede CNT
+https://tinyurl.com/FORMIGAtv12122022/459.m3u8
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="Canais | Servidor 01",(OFFLINE) Rede Super
+https://tinyurl.com/FORMIGAtv12122022/397.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) RIT TV (Rede)
+https://tinyurl.com/FORMIGAtv12122022/280.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Agro Canal
+https://tinyurl.com/FORMIGAtv12122022/380.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Assembleia Legislativa (TVAL)
+https://tinyurl.com/FORMIGAtv12122022/386.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Brasil (02)
+https://tinyurl.com/FORMIGAtv12122022/399.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Canção Nova (Rede)
+https://tinyurl.com/FORMIGAtv12122022/293.m3u8
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Canais | Servidor 01",(OFFLINE) TV Cultura
+https://tinyurl.com/FORMIGAtv12122022/289.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Câmara (TV Câmara)
+https://tinyurl.com/FORMIGAtv12122022/320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Evangelizar
+https://tinyurl.com/FORMIGAtv12122022/304.m3u8
+#EXTINF:0 tvg-id="Futura.br" group-title="Canais | Servidor 01",(OFFLINE) TV Futura
+https://tinyurl.com/FORMIGAtv12122022/294.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 (TV Cultura/TV Brasil)
+https://tinyurl.com/FORMIGAtv12122022/276.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Shoptime
+https://tinyurl.com/FORMIGAtv12122022/308.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Terraviva
+https://tinyurl.com/FORMIGAtv12122022/298.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV UP (Futura)
+https://tinyurl.com/FORMIGAtv12122022/376.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Univesp TV
+https://tinyurl.com/FORMIGAtv12122022/415.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (Florianopolis)
+https://tinyurl.com/FORMIGAtv12122022/428.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) InterTV Cabugi (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/291.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) InterTV Grande Minas (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/407.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) RBS TV RS (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/432.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Rede Amazonica (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/433.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Rede Anhanguera (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/436.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Rede Anhanguera (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/436.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) RPC Curitiba (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) RPC Curitiba (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) RPC Maringá (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/372.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) RPC Maringá (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/372.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Asa Branca (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/423.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Asa Branca (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/423.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/437.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/437.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Cabo Branco (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/319.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Cabo Branco (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/319.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Gazeta (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/424.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Gazeta Vitória (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/425.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 (Brasília)
+https://tinyurl.com/FORMIGAtv12122022/427.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Servidor 01 (Minas)
+https://tinyurl.com/FORMIGAtv12122022/429.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Servidor 01 (Rio de Janeiro)
+https://tinyurl.com/FORMIGAtv12122022/431.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 (Rio Grande do Norte)
+https://tinyurl.com/FORMIGAtv12122022/430.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Servidor 01 (São Paulo)
+https://tinyurl.com/FORMIGAtv12122022/435.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Liberal Belém (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/438.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Mirante São Luís (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/439.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Morena (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/426.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Santa Cruz (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Santa Cruz (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Subaé (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/410.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Subaé (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/410.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Sudoeste (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/411.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Sudoeste (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/411.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Verdes Mares (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/440.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Verdes Mares (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/440.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (São Paulo)
+https://tinyurl.com/FORMIGAtv12122022/457.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/461.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/461.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Aratu (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/334.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Aratu (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/334.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Jangadeiro (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/354.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Jangadeiro (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/354.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Ponta Negra (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Tambaú (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Tambaú (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/326.m3u8
+#EXTINF:0 tvg-id="RecordTV.eu" group-title="Canais | Servidor 01",(OFFLINE) Record TV
+https://tinyurl.com/FORMIGAtv12122022/309.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Record TV Itapoan (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/335.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Record TV Itapoan (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/335.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/442.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Belém)
+https://tinyurl.com/FORMIGAtv12122022/443.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Brasília)
+https://tinyurl.com/FORMIGAtv12122022/444.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Goiás)
+https://tinyurl.com/FORMIGAtv12122022/445.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Manaus)
+https://tinyurl.com/FORMIGAtv12122022/446.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Minas)
+https://tinyurl.com/FORMIGAtv12122022/447.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (Rio de Janeiro)
+https://tinyurl.com/FORMIGAtv12122022/449.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Rio Grande do Sul)
+https://tinyurl.com/FORMIGAtv12122022/450.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (São Paulo)
+https://tinyurl.com/FORMIGAtv12122022/451.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) RIC TV Maringá (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/370.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) RIC TV Maringá (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/370.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Cidade (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/351.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Cidade (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/351.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Correio (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Correio (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Tropical (Record TV)
+https://tinyurl.com/FORMIGAtv12122022/302.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 Ceará (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/350.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 Ceará (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/350.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 RN (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/292.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/462.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) Servidor 01 (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/462.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 (São Paulo)
+https://tinyurl.com/FORMIGAtv12122022/452.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Manaíra (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/322.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Manaíra (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/322.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (01)
+https://tinyurl.com/FORMIGAtv12122022/77.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (02)
+https://tinyurl.com/FORMIGAtv12122022/78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (03)
+https://tinyurl.com/FORMIGAtv12122022/79.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (04)
+https://tinyurl.com/FORMIGAtv12122022/80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) A Fazenda - Camera (05)
+https://tinyurl.com/FORMIGAtv12122022/81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Verde Vale
+https://tinyurl.com/FORMIGAtv12122022/356.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Caiuá (RedeTV! Mais)
+https://tinyurl.com/FORMIGAtv12122022/375.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Servidor 01 Nordeste (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/272.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Servidor 01 Nordeste (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/272.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Guararapes (Servidor 01)
+https://tinyurl.com/FORMIGAtv12122022/278.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Jornal (Servidor 01 Nordeste)
+https://tinyurl.com/FORMIGAtv12122022/266.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Nova (TV Cultura)
+https://tinyurl.com/FORMIGAtv12122022/271.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(ONLINE) TV Tribuna (Servidor 01eirantes)
+https://tinyurl.com/FORMIGAtv12122022/267.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais | Servidor 01",(OFFLINE) TV Arapuan (Rede TV!)
+https://tinyurl.com/FORMIGAtv12122022/318.m3u8
